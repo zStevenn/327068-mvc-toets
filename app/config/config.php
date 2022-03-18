@@ -9,7 +9,7 @@ define('DB_NAME', 'mvcframework'); //Add your DB Name
 define('APPROOT', dirname(dirname(__FILE__)));
 
 //URLROOT (Dynamic links)
-define('URLROOT', 'mvc-327068-framework.org');
+define('URLROOT', 'mvc-toets.org');
 
 //Sitename
 define('SITENAME', 'MVC Framework');

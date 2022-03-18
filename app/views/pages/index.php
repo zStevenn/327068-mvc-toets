@@ -9,5 +9,5 @@
 // }
 ?>
 <h1>
-  <a href="<?= URLROOT ?>/countries/index">Landenoverzicht</a>
+  <a href="/countries/index">Ga naar Landenoverzicht</a>
 </h1>
